@@ -1,4 +1,4 @@
-! install req
+! install requirements
 
 You need to download the whole folder named model
 
